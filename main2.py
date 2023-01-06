@@ -6,3 +6,6 @@ Created on Fri Jan  6 20:43:17 2023
 """
 
 print("main")
+
+x= 5 
+print(x)
